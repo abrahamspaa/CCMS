@@ -1,0 +1,22 @@
+fragment PageParts on Page {
+  __typename
+  title
+  blocks {
+    __typename
+    ... on PageBlocksWelcomeHero {
+      message
+      image
+    }
+  }
+}
+
+fragment FormParts on Form {
+  __typename
+  title
+  fields {
+    __typename
+    label
+    field
+    style
+  }
+}

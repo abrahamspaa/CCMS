@@ -1,0 +1,18 @@
+{
+  "title": "Dyanmic form testing",
+  "fields": [
+    {
+      "label": "First Name",
+      "field": "Input"
+    },
+    {
+      "label": "Last Name",
+      "field": "Input"
+    },
+    {
+      "label": "Submit",
+      "field": "Button",
+      "style": "primary"
+    }
+  ]
+}

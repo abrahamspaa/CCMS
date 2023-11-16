@@ -1,0 +1,10 @@
+{
+  "title": "Hello",
+  "blocks": [
+    {
+      "message": "Get started by editing **`app/page.tsx`**\n",
+      "image": "/vercel.svg",
+      "_template": "welcomeHero"
+    }
+  ]
+}
